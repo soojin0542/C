@@ -1,0 +1,5 @@
+﻿  test34.c
+D:\한수진\Day13\Day13\test34.c(7,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\한수진\Day13\Day13\test34.c(16,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\한수진\Day13\Day13\test34.c(25,21): warning C4047: '==': 'int [5]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  Day13.vcxproj -> D:\한수진\Day13\Debug\Day13.exe
