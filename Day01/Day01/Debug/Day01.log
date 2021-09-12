@@ -1,0 +1,4 @@
+﻿  Test02.c
+D:\한수진\Day01\Day01\Test02.c(110,6): warning C4101: 'z' :참조되지 않은 지역 변수입니다.
+D:\한수진\Day01\Day01\Test02.c(93,63): warning C4101: 'avg' :참조되지 않은 지역 변수입니다.
+  Day01.vcxproj -> D:\한수진\Day01\Debug\Day01.exe
