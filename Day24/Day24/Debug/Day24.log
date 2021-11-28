@@ -1,0 +1,6 @@
+﻿  test72.c
+C:\Users\user\Downloads\c-main\c-main\Day24\Day24\test72.c(23,13): warning C4013: 'run'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\c-main\c-main\Day24\Day24\test72.c(79,5): error C2084: 'int check_acc(int *,int,int)' 함수에 이미 본문이 있습니다.
+C:\Users\user\Downloads\c-main\c-main\Day24\Day24\test72.c(36): message : 'check_acc'의 이전 정의를 참조하십시오.
+C:\Users\user\Downloads\c-main\c-main\Day24\Day24\test72.c(82,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Downloads\c-main\c-main\Day24\Day24\test72.c(96,23): error C2198: 'check_acc': 호출에 인수가 너무 적습니다.
