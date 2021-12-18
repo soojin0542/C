@@ -1,0 +1,5 @@
+﻿  test75.c
+C:\Users\user\Downloads\c-main\c-main\Day25\Day25\test75.c(123,36): warning C4047: '함수': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\user\Downloads\c-main\c-main\Day25\Day25\test75.c(123,30): warning C4024: 'check_acc': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Downloads\c-main\c-main\Day25\Day25\test75.c(149,16): warning C4098: 'withdraw': 'void' 함수에서 값을 반환하고 있습니다.
+  Day25.vcxproj -> C:\Users\user\Downloads\c-main\c-main\Day25\x64\Debug\Day25.exe
