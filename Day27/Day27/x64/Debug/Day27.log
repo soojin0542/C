@@ -1,3 +1,0 @@
-﻿  소스2.c
-C:\Users\User\Downloads\c-main (2)\c-main\Day27\Day27\소스2.c(7,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Day27.vcxproj -> C:\Users\User\Downloads\c-main (2)\c-main\Day27\x64\Debug\Day27.exe
