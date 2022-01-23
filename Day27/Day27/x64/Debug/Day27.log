@@ -1,0 +1,3 @@
+﻿  test85.c
+C:\Users\User\Downloads\c-main (1)\c-main\Day27\Day27\test85.c(33,5): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  Day27.vcxproj -> C:\Users\User\Downloads\c-main (1)\c-main\Day27\Day27\x64\Debug\Day27.exe
