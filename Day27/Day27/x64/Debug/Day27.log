@@ -1,5 +1,0 @@
-﻿  test85.c
-C:\Users\user\Downloads\c-main\Day27\Day27\test85.c(64,12): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'bk'입니다.
-C:\Users\user\Downloads\c-main\Day27\Day27\test85.c(72,12): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\user\Downloads\c-main\Day27\Day27\test85.c(72,12): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
-  Day27.vcxproj -> C:\Users\user\Downloads\c-main\Day27\Day27\x64\Debug\Day27.exe
