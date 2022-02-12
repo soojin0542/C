@@ -1,9 +1,0 @@
-﻿  test85.c
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,31): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,41): warning C4101: 'su' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,24): warning C4101: 'macju' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,21): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,15): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,36): warning C4101: 'add' :참조되지 않은 지역 변수입니다.
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test85.c(7,18): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
-  Day27.vcxproj -> C:\Users\User\Downloads\c-main\c-main\Day27\Day27\x64\Debug\Day27.exe
