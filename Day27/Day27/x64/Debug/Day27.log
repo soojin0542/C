@@ -1,0 +1,8 @@
+﻿  test88.c
+C:\Users\user\Downloads\c-main (1)\c-main\Day27\Day27\test88.c(59,8): warning C4013: 'square'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\c-main (1)\c-main\Day27\Day27\test88.c(62,17): warning C4013: 'compute_average'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\c-main (1)\c-main\Day27\Day27\test88.c(63,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (__cdecl *)()'입니다.
+C:\Users\user\Downloads\c-main (1)\c-main\Day27\Day27\test88.c(63,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) 인수 1('int (__cdecl *)()' 형식)과(와) 충돌합니다.
+test88.obj : error LNK2019: squarea 함수에서 참조되는 확인할 수 없는 외부 기호
+test88.obj : error LNK2019: compute_averageb 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\user\Downloads\c-main (1)\c-main\Day27\Day27\x64\Debug\Day27.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
