@@ -1,3 +1,0 @@
-﻿  test89.c
-C:\Users\User\Downloads\c-main\c-main\Day27\Day27\test89.c(83,3): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
-  Day27.vcxproj -> C:\Users\User\Downloads\c-main\c-main\Day27\Day27\x64\Debug\Day27.exe
